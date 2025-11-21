@@ -1,0 +1,19 @@
+# buildspec.yml (This file goes into your React project's root folder on GitHub)
+
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 20
+    commands:
+      - echo Installing dependencies...
+      - npm install
+  build:
+    commands:
+      - echo Building the React app...
+      - npm run build
+artifacts:
+  files:
+    - '**/*' # Package all files in the build directory
+  base-directory: build
