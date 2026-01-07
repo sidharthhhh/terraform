@@ -14,6 +14,7 @@ Foundation concepts and step-by-step Terraform implementations.
 | **[Day 3](./day3)** | **Basic Resources** | Defining Resources, Simple S3 Bucket Provisioning |
 | **[Day 4](./day4)** | **Providers & Backend** | Configuring AWS Provider, State Backend Configuration |
 | **[Day 5](./day5)** | **Variables & Logic** | Input Variables, Locals, Output Values, Random Providers |
+| **[Day 6](./day6)** | **File Organization & VPC** | Modern File Structure, VPC Networking, Security Groups, EC2 in VPC |
 
 ### 🚀 Projects
 Applied infrastructure scenarios and complex deployments.
