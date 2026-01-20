@@ -1,0 +1,29 @@
+Project: TypeConstraintsDemo
+Environment: dev
+Instance Count: 3
+Monitoring Enabled: true
+
+Allowed IPs:
+- 192.168.1.1
+- 10.0.0.1
+- 172.16.0.1
+
+Tags:
+CostCenter: 12345
+Dept: Engineering
+Owner: Sidharth
+
+User Roles (Set - Order undefined):
+- Admin
+- Editor
+- Viewer
+
+Database Config:
+Name: main-db
+Port: 5432
+Storage: 100GB
+
+Subnets (Tuple):
+1. 10.0.1.0/24
+2. 10.0.2.0/24
+3. 10.0.3.0/24
