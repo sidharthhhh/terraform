@@ -15,6 +15,7 @@ Foundation concepts and step-by-step Terraform implementations.
 | **[Day 4](./day4)** | **Providers & Backend** | Configuring AWS Provider, State Backend Configuration |
 | **[Day 5](./day5)** | **Variables & Logic** | Input Variables, Locals, Output Values, Random Providers |
 | **[Day 6](./day6)** | **File Organization & VPC** | Modern File Structure, VPC Networking, Security Groups, EC2 in VPC |
+| **[Day 7](./day7)** | **Type Constraints** | Primitive Types, Collection Types, Structural Types, Type Validation |
 
 ### 🚀 Projects
 Applied infrastructure scenarios and complex deployments.
@@ -24,6 +25,7 @@ Applied infrastructure scenarios and complex deployments.
 | **[Project 1](./Project1)** | **Intermediate Infrastructure** | Expanded resource management and dependency handling. |
 | **[Project 2](./Project2)** | **Nginx Web Server** | Provisioning EC2 instances and bootstrapping Nginx via user-data. |
 | **[Project 3](./Project3)** | **Static Website Hosting** | Hosting a static website on S3 with public access policies. |
+| **[EC2](./ec2)** | **EC2 Instance Configuration** | Complete EC2 setup with security groups, Elastic IP, encrypted volumes, and snapshot management. |
 | **[CICD](./terraform-react-cicd)** | **Terraform + React CI/CD** | Full-stack deployment pipeline for a React application. |
 
 ## 🛠️ Tech Stack
