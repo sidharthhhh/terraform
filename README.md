@@ -16,6 +16,7 @@ Foundation concepts and step-by-step Terraform implementations.
 | **[Day 5](./day5)** | **Variables & Logic** | Input Variables, Locals, Output Values, Random Providers |
 | **[Day 6](./day6)** | **File Organization & VPC** | Modern File Structure, VPC Networking, Security Groups, EC2 in VPC |
 | **[Day 7](./day7)** | **Type Constraints** | Primitive Types, Collection Types, Structural Types, Type Validation |
+| **[Day 8](./day8)** | **Meta-Arguments** | count, for_each, depends_on, lifecycle, provider, for expressions |
 
 ### 🚀 Projects
 Applied infrastructure scenarios and complex deployments.
